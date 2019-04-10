@@ -1,0 +1,26 @@
+{
+  "name": "chat-app",
+  "description": "description",
+  "main": "app.js",
+  "authors": [
+    "louisshi"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "app"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "semantic": "semantic-ui#^2.4.1",
+    "jsrender": "^1.0.2"
+  }
+}
